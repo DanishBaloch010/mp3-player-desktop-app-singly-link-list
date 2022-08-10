@@ -1,7 +1,3 @@
 .exe app is here and in folder there are two data structure files.
 *i have copied and seprated them, in case for checking and grading purposes. 
 it will not ruin any of the project files.
-
-cs182019
-muhammad danish
-3b
