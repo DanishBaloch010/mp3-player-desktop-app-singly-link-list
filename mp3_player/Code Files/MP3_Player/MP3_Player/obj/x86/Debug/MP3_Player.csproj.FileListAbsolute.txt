@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\bin\Debug\MP3_Player.exe
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\bin\Debug\MP3_Player.pdb
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.exe
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.pdb
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.MainForm.resources
+C:\Users\user\Desktop\DSA THEORY PROJECT\Project\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.exe
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.pdb
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\bin\Debug\MP3_Player.exe
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\bin\Debug\MP3_Player.pdb
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.MainForm.resources
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\user\Desktop\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.exe
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.pdb
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\bin\Debug\MP3_Player.exe
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\bin\Debug\MP3_Player.pdb
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.MainForm.resources
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\user\Desktop\semester 3\DSA Theory\DSA THEORY PROJECT\cs182019_Project\Code Files\MP3_Player\MP3_Player\obj\x86\Debug\MP3_Player.csproj.GenerateResource.Cache
