@@ -1,6 +1,4 @@
 MP3_Player contains every code file used in the project.
 it is the original project folder made when making the project.
 
-muhammad danish
-cs182019
-3b
+
